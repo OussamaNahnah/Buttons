@@ -1,4 +1,4 @@
-# Buttons
+# Buttonss
 
 The Buttons extension for DataTables provides a common set of options, API methods and styling to display buttons on a page that will interact with a DataTable. Modules are also provided for data export, printing and column visibility control.
 
